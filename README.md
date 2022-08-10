@@ -5,4 +5,6 @@
 
 #
 [![willianrod's wakatime stats:](https://github-readme-stats.vercel.app/api/wakatime?username=yuvalmoryosef&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<embed src="https://wakatime.com/share/@yuvalmoryosef/9c8fd5da-7a3d-416e-8443-601c0e75ca84.svg"></embed>
+
+#
+<figure><embed src="https://wakatime.com/share/@yuvalmoryosef/0550757d-4331-4e02-89fc-67728ccf5816.svg"></embed></figure>
